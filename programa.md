@@ -19,4 +19,3 @@ Presidente: Don Commit Permanente
 ## Lema
 
 "Prometemos hasta que se llene el disco duro".
-10. Impuesto de 100 euros por utilizar el teclado.
