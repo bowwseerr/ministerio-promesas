@@ -20,3 +20,4 @@ Presidente: Don Commit Permanente
 
 "Prometemos hasta que se llene el disco duro".
 4. Se subvencionarán los karts para todos los ciudadanos.
+Propuesta urgente: Semana laboral de tres días.
